@@ -5,8 +5,7 @@
 # Setup Instructions
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/your-repository.git
-   https://github.com/KoryrKoryr/Phase-3-Code-Challenge-Python-Fundamentals.git
+   git clone https://github.com/KoryrKoryr/Phase-3-Code-Challenge-Python-Fundamentals.git
 
 2. Change directory to the repository:
    cd Phase-3-Code-Challenge-Python-Fundamentals
