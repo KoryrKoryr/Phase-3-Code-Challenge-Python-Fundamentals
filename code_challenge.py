@@ -19,6 +19,7 @@ def reverse_string(text):
 
 print(reverse_string("Denis"))
 
+
 #Counts the number of vowels in the input string.
 def count_vowels(text):
     print("counting vowels")
@@ -27,8 +28,8 @@ def count_vowels(text):
 
 print(count_vowels("Denis"))
 
-#Calculates the factorial of a given none negative number.
 
+#Calculates the factorial of a given none negative number.
 def calculate_factorial(n):
         
     if n < 0:
@@ -66,7 +67,6 @@ def sort_by_age(people):
 print(sort_by_age([('Tom', 45), ('Jane', 35), ('Bob', 67)]))
 
 #Merges two dictionaries. If they have common keys, sums their values.
-
 def merge_dicts(dict1, dict2):
     print("merging dictionaries")
     merged = dict1.copy()  # Start with dict1's keys and values
